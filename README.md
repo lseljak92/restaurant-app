@@ -15,6 +15,7 @@ This project also focuses on an offline-first approach, accessibility (which mak
 
 * Visit the site in your browser at http://localhost:8000
 
+* You can also click [here](https://lseljak92.github.io/restaurant-app/) to see the app's functionality.
 
 ### Dependencies
 - [Normalize.css](https://necolas.github.io/normalize.css/)
